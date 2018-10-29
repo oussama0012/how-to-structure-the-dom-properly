@@ -1,30 +1,4 @@
 
-<h1>The Secrets of Semantic HTML5 for Document Structure — a Guide</h1>
-<div class="b-blog__article__stickiness b-stickiness js-animate-stickiness js-stickiness" data-level="85" data-base-color="#e0e0f5" data-stickiness-color="#6666cc">
-<div class="b-blog__article__stickiness__num">85</div>
-<canvas class="chartCanvas" width="79" height="79" style="width: 79px; height: 79px;"></canvas>
-<div class="b-stickiness__tooltip js-tooltip">
-<div class="b-stickiness__tooltip__inner">
-<div class="b-stickiness__tooltip__title">
-Wow-Score
-</div>
-<div class="b-stickiness__tooltip__text">The Wow-Score shows how engaging a blog post is. It is calculated based on the correlation between users’ active reading time, their scrolling speed and the article’s length.</div>
-<a href="/wow-score/about/" title="Learn more" class="b-stickiness__tooltip__btn js-stickiness-btn" data-type="post">Learn more</a>
-</div>
-</div>
-</div>
-</div>
-<h1 class="mobile">The Secrets of Semantic HTML5 for Document Structure — a Guide</h1>
-<div class="b-post__other-lang mobile js-other-lang">
-<div class="b-post__other-lang__container">
-This post is in <span class="b-post__other-lang__current js-other-lang-current">English</span>
-</div>
-<ul class="b-post__other-lang__list">
-<li class="b-post__other-lang__item"><a class="js-other-lang-item" href="https://fr.semrush.com/blog/balises-structurelles-html-semantique/">Français</a></li>
-</ul>
-</div>
-<div class="b-blog__article__head desktop">
-<a href="/user/146089169/">
 <span class="b-blog__article__head__img photo" style="background: url(https://cdn.semrush.com/blog/static/uploads/user/1a/f3/1af367c3e382fb5408359d9c0715b84c.jpg/crop/33x33/) center center; background-size: cover;"></span>
 <span class="b-blog__article__head__author">
 Jason Barnard
@@ -168,46 +142,3 @@ This post is in <span class="b-post__other-lang__current js-other-lang-current">
 <p>Just a warning - I have seen many sites using the visual design as a guide for their HTML5 implementation. As seen above, this is not what semantic HTML5 is designed for.</p>
 <p><span class="b-blog__image zoom" data-size="big"><span name="img443970404" id="img443970404" class="shared-img__wrapper"><img alt="html5 tags used for design is bad" data-fullsize-src="https://cdn.semrush.com/blog/static/media/41/a1/41a1dbc3c1a327d2fed23b518904a74c/bad-example-semantic-html5-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/41/a1/41a1dbc3c1a327d2fed23b518904a74c/resize/885x666/bad-example-semantic-html5-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Semantic HTML5 is not for design.</i></span></p>
 <p>This (surprisingly typical) example simply duplicates the visual layout. Worse than pointless, this indicates that the page contains 4 different topics, rather than one topic and 3 sub-topics. Explicitly providing misleading information to the machines&nbsp;will have a negative impact on its understanding.</p>
-<h2>Next steps?</h2>
-<p><span class="b-related-shortcode js-related-shortcode" data-ga-action="community-related-widget-show">
-<span class="b-related-shortcode__heading">More on this</span>
-<span class="b-related-shortcode__list">
-<a class="b-related-shortcode__item" href="https://www.semrush.com/blog/best-practices-in-semantic-html5-for-content-writers/" title="Semantic HTML5 for Content Writers – The Essential Guide" data-ga-value="1" data-ga-action="community-related-widget-click-blog" data-ga-category="Blog">
-<span class="b-related-shortcode__title">Semantic HTML5 for Content Writers – The Essential Guide
-&nbsp;
-<span class="b-related-shortcode__type is-blog">
-Post
-</span>
-</span>
-<span class="b-related-shortcode__caption">
-Jason Barnard
-</span>
-</a>
-<a class="b-related-shortcode__item" href="/webinars/semantic-html5-information-architecture-and-accessibility-so-many-missed-opportunities/" title="Epic #SEOisAEO series: Semantic HTML5, IA and Accessibility - so many missed opportunities" data-ga-value="2" data-ga-action="community-related-widget-click-webinars" data-ga-category="Blog">
-<span class="b-related-shortcode__title">Epic #SEOisAEO series: Semantic HTML5, IA and Accessibility - so many missed opportunities
-&nbsp;
-<span class="b-related-shortcode__type is-webinars">
-Webinar
-</span>
-</span>
-<span class="b-related-shortcode__caption">
-recorded on&nbsp;
-Oct 02, 2018
-</span>
-</a>
-<a class="b-related-shortcode__item" href="https://www.semrush.com/blog/content-optimization-list-blogging-for-people-and-search-engines/" title="On Page SEO checklist: Blogging for People and Search Engines" data-ga-value="3" data-ga-action="community-related-widget-click-blog" data-ga-category="Blog">
-<span class="b-related-shortcode__title">On Page SEO checklist: Blogging for People and Search Engines
-&nbsp;
-<span class="b-related-shortcode__type is-blog">
-Post
-</span>
-</span>
-<span class="b-related-shortcode__caption">
-Elena Terenteva
-</span>
-</a>
-</span>
-</span>
-Implementing semantic HTML5 on your pages will improve your communication with Google and Bing. They both want to understand what your site is about. They both want you to communicate clearly in their language, and they both want you to educate them. Do it.</p>
-<h3>Communication</h3>
-<p>Communication with machines (HTML5 has an important role) is one of the two pillars of a long-term SEO strategy that will succeed in a world where we will need to optimise for Answer Engines. There are a great many things that you can do to improve communication. Semantic HTML5 is one. Schema structured markup is another. <a href="https://www.semrush.com/blog/schema-markup-for-company-corporations/">Here is an article about that</a>.&nbsp;</p>
