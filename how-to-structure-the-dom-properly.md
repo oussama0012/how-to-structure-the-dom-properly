@@ -1,45 +1,5 @@
 
-<ul class="b-share-right__list js-social-likes" data-action="shares_from_post_right" data-id="145796673" data-url="https://www.semrush.com/blog/semantic-html5-guide/" data-short_url="https://www.semrush.com/blog/semantic-html5-guide/">
-<li class="b-share-right__item">
-<span class="b-share-right__item__widget tw" data-service="twitter" data-text="The Secrets of Semantic HTML5 for Document Structure — a Guide by @jasonmbarnard" data-title="The Secrets of Semantic HTML5 for Document Structure — a Guide" data-via="semrush">
-<span class="b-share-right__item__widget__logo">
-<i class="s-icon -s -twitter"></i>
-</span>
-</span>
-</li>
-<li class="b-share-right__item">
-<span class="b-share-right__item__widget fb" data-service="facebook">
-<span class="b-share-right__item__widget__logo">
-<i class="s-icon -s -facebook"></i>
-</span>
-</span>
-</li>
-<li class="b-share-right__item">
-<span class="b-share-right__item__widget gp" data-service="googleplus">
-<span class="b-share-right__item__widget__logo">
-<i class="s-icon -s -gplus"></i>
-</span>
-</span>
-</li>
-<li class="b-share-right__item">
-<span class="b-share-right__item__widget li" data-service="linkedin" data-title="The Secrets of Semantic HTML5 for Document Structure — a Guide">
-<span class="b-share-right__item__widget__logo">
-<i class="s-icon -s -linkedin"></i>
-</span>
-</span>
-</li>
-<li class="b-share-right__item">
-<span class="b-share-right__item__widget com js-shares-comments" data-link="comments">
-<span class="b-share-right__item__widget__logo" data-toggle="tooltip-right">
-<i class="s-icon -s -chat"></i>
-</span>
-<span class="b-share-right__item__widget__num active" data-count="">19</span>
-</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
+
 <div class="js-post-schema" itemid="https://www.semrush.com/blog/semantic-html5-guide/" itemscope="" itemtype="http://schema.org/BlogPosting">
 <link itemprop="mainEntityOfPage" href="https://www.semrush.com/blog/semantic-html5-guide/">
 <meta itemprop="headline" content="The Secrets of Semantic HTML5 for Document Structure — a Guide">
