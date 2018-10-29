@@ -1,22 +1,4 @@
 
-<span class="b-blog__article__head__img photo" style="background: url(https://cdn.semrush.com/blog/static/uploads/user/1a/f3/1af367c3e382fb5408359d9c0715b84c.jpg/crop/33x33/) center center; background-size: cover;"></span>
-<span class="b-blog__article__head__author">
-Jason Barnard
-</span>
-</a>
-<time class="b-blog__snippet__info__date " data-time="2017-09-25 15:05:00">September 25, 2017</time>
-<div class="b-post__other-lang  js-other-lang">
-<div class="b-post__other-lang__container">
-This post is in <span class="b-post__other-lang__current js-other-lang-current">English</span>
-</div>
-<ul class="b-post__other-lang__list">
-<li class="b-post__other-lang__item"><a class="js-other-lang-item" href="https://fr.semrush.com/blog/balises-structurelles-html-semantique/">Français</a></li>
-</ul>
-</div>
-</div>
-<div class="b-share-right__wrapper grid-container disable-post-container js-share-right-wrapper desktop b-share-right__wrapper_type_with-subcategories" style="">
-<div class="b-share-right ">
-<div class="b-share-right__position js-share-right" data-post-id="145796673">
 <ul class="b-share-right__list js-social-likes" data-action="shares_from_post_right" data-id="145796673" data-url="https://www.semrush.com/blog/semantic-html5-guide/" data-short_url="https://www.semrush.com/blog/semantic-html5-guide/">
 <li class="b-share-right__item">
 <span class="b-share-right__item__widget tw" data-service="twitter" data-text="The Secrets of Semantic HTML5 for Document Structure — a Guide by @jasonmbarnard" data-title="The Secrets of Semantic HTML5 for Document Structure — a Guide" data-via="semrush">
