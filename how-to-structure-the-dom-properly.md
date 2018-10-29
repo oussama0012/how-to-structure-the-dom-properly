@@ -1,0 +1,332 @@
+<div class="b-blog__article">
+<div class="b-blog__article__head mobile">
+<span class="b-blog__article__head__author">
+<a itemprop="url" href="/user/146089169/" class="b-blog__article__head__author">
+Jason Barnard
+</a>
+</span>
+<time class="b-blog__snippet__info__date" data-time="2017-09-25 15:05:00">September 25, 2017</time>
+</div>
+<div class="b-blog__article__title desktop cf">
+<h1>The Secrets of Semantic HTML5 for Document Structure — a Guide</h1>
+<div class="b-blog__article__stickiness b-stickiness js-animate-stickiness js-stickiness" data-level="85" data-base-color="#e0e0f5" data-stickiness-color="#6666cc">
+<div class="b-blog__article__stickiness__num">85</div>
+<canvas class="chartCanvas" width="79" height="79" style="width: 79px; height: 79px;"></canvas>
+<div class="b-stickiness__tooltip js-tooltip">
+<div class="b-stickiness__tooltip__inner">
+<div class="b-stickiness__tooltip__title">
+Wow-Score
+</div>
+<div class="b-stickiness__tooltip__text">The Wow-Score shows how engaging a blog post is. It is calculated based on the correlation between users’ active reading time, their scrolling speed and the article’s length.</div>
+<a href="/wow-score/about/" title="Learn more" class="b-stickiness__tooltip__btn js-stickiness-btn" data-type="post">Learn more</a>
+</div>
+</div>
+</div>
+</div>
+<h1 class="mobile">The Secrets of Semantic HTML5 for Document Structure — a Guide</h1>
+<div class="b-post__other-lang mobile js-other-lang">
+<div class="b-post__other-lang__container">
+This post is in <span class="b-post__other-lang__current js-other-lang-current">English</span>
+</div>
+<ul class="b-post__other-lang__list">
+<li class="b-post__other-lang__item"><a class="js-other-lang-item" href="https://fr.semrush.com/blog/balises-structurelles-html-semantique/">Français</a></li>
+</ul>
+</div>
+<div class="b-blog__article__head desktop">
+<a href="/user/146089169/">
+<span class="b-blog__article__head__img photo" style="background: url(https://cdn.semrush.com/blog/static/uploads/user/1a/f3/1af367c3e382fb5408359d9c0715b84c.jpg/crop/33x33/) center center; background-size: cover;"></span>
+<span class="b-blog__article__head__author">
+Jason Barnard
+</span>
+</a>
+<time class="b-blog__snippet__info__date " data-time="2017-09-25 15:05:00">September 25, 2017</time>
+<div class="b-post__other-lang  js-other-lang">
+<div class="b-post__other-lang__container">
+This post is in <span class="b-post__other-lang__current js-other-lang-current">English</span>
+</div>
+<ul class="b-post__other-lang__list">
+<li class="b-post__other-lang__item"><a class="js-other-lang-item" href="https://fr.semrush.com/blog/balises-structurelles-html-semantique/">Français</a></li>
+</ul>
+</div>
+</div>
+<div class="b-share-right__wrapper grid-container disable-post-container js-share-right-wrapper desktop b-share-right__wrapper_type_with-subcategories" style="">
+<div class="b-share-right ">
+<div class="b-share-right__position js-share-right" data-post-id="145796673">
+<ul class="b-share-right__list js-social-likes" data-action="shares_from_post_right" data-id="145796673" data-url="https://www.semrush.com/blog/semantic-html5-guide/" data-short_url="https://www.semrush.com/blog/semantic-html5-guide/">
+<li class="b-share-right__item">
+<span class="b-share-right__item__widget tw" data-service="twitter" data-text="The Secrets of Semantic HTML5 for Document Structure — a Guide by @jasonmbarnard" data-title="The Secrets of Semantic HTML5 for Document Structure — a Guide" data-via="semrush">
+<span class="b-share-right__item__widget__logo">
+<i class="s-icon -s -twitter"></i>
+</span>
+</span>
+</li>
+<li class="b-share-right__item">
+<span class="b-share-right__item__widget fb" data-service="facebook">
+<span class="b-share-right__item__widget__logo">
+<i class="s-icon -s -facebook"></i>
+</span>
+</span>
+</li>
+<li class="b-share-right__item">
+<span class="b-share-right__item__widget gp" data-service="googleplus">
+<span class="b-share-right__item__widget__logo">
+<i class="s-icon -s -gplus"></i>
+</span>
+</span>
+</li>
+<li class="b-share-right__item">
+<span class="b-share-right__item__widget li" data-service="linkedin" data-title="The Secrets of Semantic HTML5 for Document Structure — a Guide">
+<span class="b-share-right__item__widget__logo">
+<i class="s-icon -s -linkedin"></i>
+</span>
+</span>
+</li>
+<li class="b-share-right__item">
+<span class="b-share-right__item__widget com js-shares-comments" data-link="comments">
+<span class="b-share-right__item__widget__logo" data-toggle="tooltip-right">
+<i class="s-icon -s -chat"></i>
+</span>
+<span class="b-share-right__item__widget__num active" data-count="">19</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="js-post-schema" itemid="https://www.semrush.com/blog/semantic-html5-guide/" itemscope="" itemtype="http://schema.org/BlogPosting">
+<link itemprop="mainEntityOfPage" href="https://www.semrush.com/blog/semantic-html5-guide/">
+<meta itemprop="headline" content="The Secrets of Semantic HTML5 for Document Structure — a Guide">
+<meta itemprop="description" content="A simple guide to using semantic HTML5 to communicate the structure of your pages: What is semantic HTML5? Why do you need to use semantic HTML5? What does it look like? Here are some easy-to-implement examples...">
+<meta itemprop="identifier" content="145796673">
+<div itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<meta itemprop="name" content="Jason Barnard">
+<meta itemprop="identifier" content="146089169">
+</div>
+<div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://cdn.semrush.com/blog/static/uploads/media/72/80/728075c1ceaf41ed9053b64765fc6f49.jpg">
+<meta itemprop="width" content="598">
+<meta itemprop="height" content="144">
+</div>
+<meta itemprop="name" content="SEMrush">
+</div>
+<meta itemprop="datePublished" content="2017-09-25 15:05:00">
+<meta itemprop="dateModified" content="2018-10-26 10:22:53">
+<article>
+<div class="b-blog__article__img" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+<span name="img21516225988" id="img21516225988" class="shared-img__wrapper"><img src="https://cdn.semrush.com/blog/static/media/ed/2c/ed2ca17e0061f8f474356b7d8059042e/resize/885x-/blogheaderhtml5-01-01.png" alt="The Secrets of Semantic HTML5 for Document Structure — a Guide" class="js-shared" data-gtm-vis-recent-on-screen-9025619_57="33718" data-gtm-vis-first-on-screen-9025619_57="33718" data-gtm-vis-total-visible-time-9025619_57="100" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span>
+<meta itemprop="url" content="https://cdn.semrush.com/blog/static/media/ed/2c/ed2ca17e0061f8f474356b7d8059042e/blogheaderhtml5-01-01.png">
+<meta itemprop="width" content="885px">
+<meta itemprop="height" content="375px">
+</div>
+<div itemprop="articleBody">
+<h2>What is semantic HTML5?</h2>
+<p>If you know a little about HTML you will know that HTML tags are (mostly) used to format content - these tags tell the browser how to display the content on the page. They give no indication as to what type of content they contain or what role that content plays in the page.</p>
+<p>Semantic HTML5 addresses this shortcoming by defining specific tags to indicate clearly what role is played by the content those tags contain. &nbsp;That explicit information helps robots/crawlers like Google and Bing to better understand which content is important, which is subsidiary, which is for navigation, and so on. By adding semantic HTML tags to your pages, you provide additional information that helps Google and Bing understand the roles and relative importance of the different parts of your page.</p>
+<p><strong>Examples</strong></p>
+<p><span class="b-blog__image" data-size="big"><span name="img20668996864" id="img20668996864" class="shared-img__wrapper"><img alt="div and span tags" data-fullsize-src="https://cdn.semrush.com/blog/static/media/f3/8a/f38aa034ef62d1d9c2f43ed6c9ff54ef/div-span.png" data-source-height="79" data-source-width="810" height="79" src="https://cdn.semrush.com/blog/static/media/f3/8a/f38aa034ef62d1d9c2f43ed6c9ff54ef/resize/810x79/div-span.png" width="810" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">div and span tags. Non-semantic / generic.</i></span></p>
+<p>These are examples of non-semantic HTML elements. They serve only as holders to convey to the browser how the content should be displayed. They give no information about the role the content they contain plays on the page.</p>
+<p><span class="b-blog__image" data-size="big"><span name="img11450891357" id="img11450891357" class="shared-img__wrapper"><img alt="Semantic tags" data-fullsize-src="https://cdn.semrush.com/blog/static/media/0c/13/0c13b1127055b093f26146e0481e6a8d/semantic-html5-tags.png" data-source-height="79" data-source-width="810" height="79" src="https://cdn.semrush.com/blog/static/media/0c/13/0c13b1127055b093f26146e0481e6a8d/resize/810x79/semantic-html5-tags.png" width="810" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Examples of semantic tags.</i></span></p>
+<p>These are semantic elements. They clearly define the role of the content they contain.</p>
+<h2>Why do I need to use it?</h2>
+<p>For sighted users, it is usually easy to identify the various parts of a web page at a glance. Headers, menus, and (hopefully) the main content are all immediately, visually apparent. Now imagine you are blind.</p>
+<p>Google and Bing’s bots (spiders) are, if not blind, seriously sight impaired. For them, the visual clues are phenomenally difficult to see and understand.</p>
+<p>They need your help. If you can successfully communicate to Google and Bing which part of the page is the header, which the footer and which is for navigation they will thank you. Most importantly, by telling them which is the most important content, you give them an explicit instruction to prioritize that content.</p>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img14680578202" id="img14680578202" class="shared-img__wrapper"><img alt="Web Page with most important content highlighted" data-fullsize-src="https://cdn.semrush.com/blog/static/media/7c/8b/7c8bb66dacda5cd1ab33e2481adf050a/initial-content-no-markup-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/7c/8b/7c8bb66dacda5cd1ab33e2481adf050a/resize/885x666/initial-content-no-markup-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Here is our page.</i></span></p>
+<p>On its own, using semantic HTML5 will not revolutionize your SEO performance (sorry!). As you know, successful SEO is a cumulation of many, many, many small details. This is one of those small details that will improve Google and Bing’s understanding (and confidence in their understanding) of your content, and that will help your SEO efforts.</p>
+<p>Looking further forwards, as SEO evolves over the coming years, explicit and coherent communication with these machines will be one of the two cornerstones of your SEO / AEO strategy (see below).</p>
+<h2>What does it look like?</h2>
+<p>Examples of semantic HTML tags include &lt;nav&gt;, &lt;footer&gt; and &lt;section&gt;. There are many more semantic HTML5 tags that can be used (for example &lt;blockquote&gt; and &lt;em&gt;), but in this article I am only looking at those semantic HTML tags that you will need to divide the page content into its basic parts.</p>
+<p>The following HTML5 tags can be used in the place of &lt;div&gt; tags to break your page content into identified parts each of which fulfills a specific role. As you can imagine, machines like Google and Bing LOVE this.</p>
+<p><span class="b-blog__image" data-size="big"><span name="img-411978157" id="img411978157" class="shared-img__wrapper"><img alt="7 semantic html5 tags" data-fullsize-src="https://cdn.semrush.com/blog/static/media/4e/f5/4ef50b3289c4454e8d99d9b063ee2d0f/7-semantic-html5-tags.png" data-source-height="434" data-source-width="809" height="434" src="https://cdn.semrush.com/blog/static/media/4e/f5/4ef50b3289c4454e8d99d9b063ee2d0f/resize/809x434/7-semantic-html5-tags.png" width="809" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Semantic HTML5 tags we will be using in this article.</i></span></p>
+<p>This clear delimitation and explicit attribution of roles to each part of the content makes the page much clearer and easier to index correctly for Google and Bing.</p>
+<p>NB Since these tags all behave exactly like &lt;div&gt; tags they can simply replace existing &lt;div&gt;s in the page without affecting the layout. In a lot of cases implementing semantic HTML5 can be as easy as finding the correct pair of &lt;div&gt; and &lt;/div&gt; and replacing them.</p>
+<h2>Examples of Semantic HTML5</h2>
+<h3>Super simple semantic HTML5 Example:</h3>
+<p>Here we have simply defined what role each part of the page plays. When you start applying HTML5, this is a safe place to start - header, nav, main, footer.</p>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img14181204891" id="img14181204891" class="shared-img__wrapper"><img alt="basic-semantic-html5-markup-main.png" data-fullsize-src="https://cdn.semrush.com/blog/static/media/d6/d9/d6d954688cef6e156a701ea1d763f047/basic-semantic-html5-markup-main-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/d6/d9/d6d954688cef6e156a701ea1d763f047/resize/885x666/basic-semantic-html5-markup-main-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Super simple example with most important elements: header, footer, nav, and main.</i></span></p>
+<p><strong>It is better to have a super simple implementation that is 100% correct, rather than a&nbsp;complex implementation that is incorrect.</strong></p>
+<p>An inaccurate implementation sends conflicting and confusing signals which will make things worse, not better.</p>
+<p>A simple and correct implementation is already a big step forward&nbsp;in your communication with Google and Bing. Don’t be overly ambitious; get it wrong, and you could create more problems than you solve!</p>
+<h2>More Complex Examples</h2>
+<h3>Using sections and articles:</h3>
+<p>Here we have made a hierarchy within our main content. There is an all-encompassing article that identifies the central content within the main tag. This gives&nbsp;an overview of the topic of that part of the page. Within that article, we have multiple sub-topics that develop the main topic that is identified by the nested sections.</p>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img-7933947138" id="img7933947138" class="shared-img__wrapper"><img alt="semantic HTML5 not used for design" data-fullsize-src="https://cdn.semrush.com/blog/static/media/14/18/1418e48081a3421b2e0c4aaf062a83d7/semantic-html5-markup-layout-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/14/18/1418e48081a3421b2e0c4aaf062a83d7/resize/885x666/semantic-html5-markup-layout-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Notice that the design (the orange blocks) are not being used to define the semantic areas of the page.</i></span></p>
+<p><strong>Notice that the design (the orange blocks) are not being used to define the semantic areas of the page. Looks a little confusing, but shows well that layout HTML and semantic HTML5 have distinct roles.</strong></p>
+<p>In the real world, the semantic markup often follows the layout more than this example. General rule: A section forms part of something else. An article is its own thing.</p>
+<p>Also note, that here I added a nav section to the footer. Logically, just like the header, the footer contains navigational elements.</p>
+<h3>Related Aside</h3>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img16276376395" id="img16276376395" class="shared-img__wrapper"><img alt="Related aside semantic HTML5" data-fullsize-src="https://cdn.semrush.com/blog/static/media/62/de/62de85ae40932e6d41e2966b3af3ca8e/semantic-html5-markup-related-aside-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/62/de/62de85ae40932e6d41e2966b3af3ca8e/resize/885x666/semantic-html5-markup-related-aside-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span></span></p>
+<p>Here we have added two pieces of directly related content to the principal article of content. Using asides, we indicate that the related content (aside) is optional. The principal section of content can be shown without the aside(s) and still be understood.</p>
+<h3>Indirectly Related Aside</h3>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img-2977823384" id="img2977823384" class="shared-img__wrapper"><img alt="Unrelated aside semantic HTML5" data-fullsize-src="https://cdn.semrush.com/blog/static/media/5d/18/5d181389b833eea362b97555f575fae6/semantic-html5-markup-unrelated-aside-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/5d/18/5d181389b833eea362b97555f575fae6/resize/885x666/semantic-html5-markup-unrelated-aside-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span></span></p>
+<p><strong>Note</strong>: an aside does not have to be a sidebar beside the main content. It can also be used for blocks below the main content containing a title, text, and link to another page</p>
+<p>Here we have identified some indirectly related content to the page, outside the principal article of content. Here we indicate that the content in the aside is not directly related to the principal article.</p>
+<p><em><strong>That is enough for most needs.</strong></em></p>
+<h2>Our final version</h2>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img-13329375799" id="img13329375799" class="shared-img__wrapper"><img alt="Full Semantic HTML5 on a webpage" data-fullsize-src="https://cdn.semrush.com/blog/static/media/cf/a3/cfa391b0c6961710afe56a82e1b26ea0/full-semantic-html5-markup-ok-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/cf/a3/cfa391b0c6961710afe56a82e1b26ea0/resize/885x666/full-semantic-html5-markup-ok-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">This is very good!</i></span></p>
+<h2>Helpful Tips</h2>
+<h3>Section vs. Article</h3>
+<p>There is much discussion about this. There is no fixed rule about sections and articles, and their implementation is pretty flexible. They are more or less the same and can be used interchangeably most of the time. Just be sure to be logical and consistent.</p>
+<p><strong>Personal tip:</strong> I have found that nesting sections inside an article of content is both logical for a machine, but also for a human (the HTML code will be easier to read for the developer).</p>
+<p><span class="b-blog__image" data-size="big"><span name="img12401498501" id="img12401498501" class="shared-img__wrapper"><img alt="Article with nested sections" data-fullsize-src="https://cdn.semrush.com/blog/static/media/38/0c/380c46f73bebcf7a8e31639cca4ea905/article-sections.png" data-source-height="470" data-source-width="530" height="470" src="https://cdn.semrush.com/blog/static/media/38/0c/380c46f73bebcf7a8e31639cca4ea905/resize/530x470/article-sections.png" width="530" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span></span></p>
+<h3>Nesting Elements</h3>
+<p>Elements can nest other elements. For example, an article can have its own &lt;header&gt;, &lt;footer&gt;, &lt;h1&gt; (as seen above), and even &lt;nav&gt; (anchor links, are a good example). I have not given an illustration of this “super nesting’, and there is a reason for that:&nbsp;This is an SEO blog and, from an SEO standpoint, there is no real benefit from pushing the logic of semantic HTML5 this far.</p>
+<p><strong>As mentioned above, for SEO purposes, you should concentrate on providing a solid, simple structure.</strong></p>
+<h2>What NOT to Do</h2>
+<p>Just a warning - I have seen many sites using the visual design as a guide for their HTML5 implementation. As seen above, this is not what semantic HTML5 is designed for.</p>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img443970404" id="img443970404" class="shared-img__wrapper"><img alt="html5 tags used for design is bad" data-fullsize-src="https://cdn.semrush.com/blog/static/media/41/a1/41a1dbc3c1a327d2fed23b518904a74c/bad-example-semantic-html5-kalicube.png" data-source-height="1220" data-source-width="1620" height="666" src="https://cdn.semrush.com/blog/static/media/41/a1/41a1dbc3c1a327d2fed23b518904a74c/resize/885x666/bad-example-semantic-html5-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Semantic HTML5 is not for design.</i></span></p>
+<p>This (surprisingly typical) example simply duplicates the visual layout. Worse than pointless, this indicates that the page contains 4 different topics, rather than one topic and 3 sub-topics. Explicitly providing misleading information to the machines&nbsp;will have a negative impact on its understanding.</p>
+<h2>Next steps?</h2>
+<p><span class="b-related-shortcode js-related-shortcode" data-ga-action="community-related-widget-show">
+<span class="b-related-shortcode__heading">More on this</span>
+<span class="b-related-shortcode__list">
+<a class="b-related-shortcode__item" href="https://www.semrush.com/blog/best-practices-in-semantic-html5-for-content-writers/" title="Semantic HTML5 for Content Writers – The Essential Guide" data-ga-value="1" data-ga-action="community-related-widget-click-blog" data-ga-category="Blog">
+<span class="b-related-shortcode__title">Semantic HTML5 for Content Writers – The Essential Guide
+&nbsp;
+<span class="b-related-shortcode__type is-blog">
+Post
+</span>
+</span>
+<span class="b-related-shortcode__caption">
+Jason Barnard
+</span>
+</a>
+<a class="b-related-shortcode__item" href="/webinars/semantic-html5-information-architecture-and-accessibility-so-many-missed-opportunities/" title="Epic #SEOisAEO series: Semantic HTML5, IA and Accessibility - so many missed opportunities" data-ga-value="2" data-ga-action="community-related-widget-click-webinars" data-ga-category="Blog">
+<span class="b-related-shortcode__title">Epic #SEOisAEO series: Semantic HTML5, IA and Accessibility - so many missed opportunities
+&nbsp;
+<span class="b-related-shortcode__type is-webinars">
+Webinar
+</span>
+</span>
+<span class="b-related-shortcode__caption">
+recorded on&nbsp;
+Oct 02, 2018
+</span>
+</a>
+<a class="b-related-shortcode__item" href="https://www.semrush.com/blog/content-optimization-list-blogging-for-people-and-search-engines/" title="On Page SEO checklist: Blogging for People and Search Engines" data-ga-value="3" data-ga-action="community-related-widget-click-blog" data-ga-category="Blog">
+<span class="b-related-shortcode__title">On Page SEO checklist: Blogging for People and Search Engines
+&nbsp;
+<span class="b-related-shortcode__type is-blog">
+Post
+</span>
+</span>
+<span class="b-related-shortcode__caption">
+Elena Terenteva
+</span>
+</a>
+</span>
+</span>
+Implementing semantic HTML5 on your pages will improve your communication with Google and Bing. They both want to understand what your site is about. They both want you to communicate clearly in their language, and they both want you to educate them. Do it.</p>
+<h3>Communication</h3>
+<p>Communication with machines (HTML5 has an important role) is one of the two pillars of a long-term SEO strategy that will succeed in a world where we will need to optimise for Answer Engines. There are a great many things that you can do to improve communication. Semantic HTML5 is one. Schema structured markup is another. <a href="https://www.semrush.com/blog/schema-markup-for-company-corporations/">Here is an article about that</a>.&nbsp;</p>
+<h3>Credibility</h3>
+<p>The second pillar is credibility. There are also a great many things that you can do to improve your credibility.&nbsp;</p>
+<p><span class="b-blog__image" data-size="big"><span name="img8681374635" id="img8681374635" class="shared-img__wrapper"><img alt="Communication and credibility icons" data-fullsize-src="https://cdn.semrush.com/blog/static/media/c1/a6/c1a6bdf521a4794e94a0d8009a080373/communication-credibility.png" data-source-height="175" data-source-width="430" height="175" src="https://cdn.semrush.com/blog/static/media/c1/a6/c1a6bdf521a4794e94a0d8009a080373/resize/430x175/communication-credibility.png" width="430" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span><i class="b-blog__image__text">Communication + Credibility = winning strategy.</i></span></p>
+<h3>Communication + Credibility</h3>
+<p>All SEO (and AEO) comes down to communication and credibility. <strong>I will continue to write regularly here on SEMrush about techniques for improving your communication and your credibility with Google and Bing </strong>(by the way, Bing is about to make a big comeback).</p>
+<p>Please do share your thoughts about this article in the comments section below, but also feel free to post your questions about communication and credibility in SEO; your questions will help define the priorities of what I should be writing about.</p>
+<h3>In Closing: A Reminder of Good Semantic HTML5 Markup for SEO</h3>
+<p>Structure, importance, roles, and hierarchy are things that humans&nbsp;often understand instinctively from the design/layout. <strong>Correctly</strong> using the correct semantic HTML tags in the place of &lt;div&gt; simply makes that same understanding easier for machines.</p>
+<p><span class="b-blog__image zoom" data-size="big"><span name="img17071388534" id="img17071388534" class="shared-img__wrapper"><img alt="Web page seen by a human and a robot" data-fullsize-src="https://cdn.semrush.com/blog/static/media/8c/d4/8cd4a96f3d98566613d4100fe2a23f9c/visual-robot-html-kalicube.png" data-source-height="920" data-source-width="1620" height="502" src="https://cdn.semrush.com/blog/static/media/8c/d4/8cd4a96f3d98566613d4100fe2a23f9c/resize/885x502/visual-robot-html-kalicube.png" width="885" on="tap:lightbox-img" tabindex="0" role="button" class="js-shared" data-gtm-vis-has-fired-9025619_57="1"><span class="shared-img__buttons"><span class="shared-img__btn twitter" data-provider="twitter"><i class="s-icon -twitter"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-twitter"></use></svg></span><span class="shared-img__btn facebook" data-provider="facebook"><i class="s-icon -facebook"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-facebook"></use></svg></span><span class="shared-img__btn gplus" data-provider="gplus"><i class="s-icon -gplus"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-gplus"></use></svg></span><span class="shared-img__btn linkedin" data-provider="linkedin"><i class="s-icon -linkedin"></i><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconsvg__shared-linkedin"></use></svg></span></span></span></span></p>
+</div>
+<div id="art_25"></div>
+<div id="art_50"></div>
+<div id="art_75"></div>
+<div id="art_100"></div>
+</article>
+</div>
+<div class="b-article__bottom cf">
+<div class="b-article__tags">
+<a href="https://www.semrush.com/blog/category/seo/">SEO</a> </div>
+<div class="b-article__rss">
+<p class="b-article__rss-txt">Like this post? Follow us on RSS and read more interesting posts:</p>
+<a href="/blog/feed/" title="RSS" class="js-rss-btn js-ga-collect s-btn -xs -warning" data-ga-category="Blog" data-ga-action="rss_button_click" data-ga-label="post">
+<s-icon size="s" icon="rss" class="s-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="s-icon__inner
+      
+      
+      -s
+      ">
+        <use xlink:href="#src/icons/s/rss__v2_11_2"></use>
+      </svg></s-icon>
+<span class="s-btn__text">RSS</span>
+</a>
+</div>
+</div>
+<section class="b-blog-author-block b-blog-author-block_type_columnist" itemscope="" itemprop="Person" itemtype="http://schema.org/Person">
+<div class="b-blog-author-block__top">
+<div class="b-blog-author-block__photo">
+<a href="https://www.semrush.com/user/jasonbarnard/" title="Jason Barnard">
+<img itemprop="image" src="https://cdn.semrush.com/blog/static/uploads/user/1a/f3/1af367c3e382fb5408359d9c0715b84c.jpg/crop/64x64/" alt="Jason Barnard" data-gtm-vis-has-fired-9025619_57="1">
+</a>
+</div>
+<div class="b-blog-author-block__title b-blog-author-block__title_visibility_mobile">
+<div class="b-blog-author-block__name">
+<a itemprop="url" href="https://www.semrush.com/user/jasonbarnard/" title="Jason Barnard">
+<span itemprop="name">Jason Barnard</span>
+</a>
+</div>
+<a href="/blog/columnists/" class="b-label b-label_type_columnist b-blog-author-block__label">columnist</a>
+</div>
+</div>
+<div class="b-blog-author-block__info">
+<div class="b-blog-author-block__title b-blog-author-block__title_visibility_desktop">
+<div class="b-blog-author-block__name">
+<a itemprop="url" href="https://www.semrush.com/user/jasonbarnard/" title="Jason Barnard">
+<span itemprop="name">Jason Barnard</span>
+</a>
+</div>
+<a href="/blog/columnists/" class="b-label b-label_type_columnist b-blog-author-block__label">columnist</a>
+</div>
+<div class="b-blog-author-block__bio"> Almost 2 decades of experience: I started promoting my first website in the year Google was incorporated and built it up to become one of the top 10,000 most visited sites in the world (60 million visits in 2007).<br>
+Today I am a search marketing consultant, speaker and author on all things search / answer engine optimisation #SEOisAEO<br>
+<br>
+My column will outline how we in the world of SEO can successfully segue into AEO – Answer Engine Optimization. I will develop the details of the three major concepts your AEO strategy should center on: relevance, communication and credibility. Within these concepts, luckily for us, most (white hat) SEO tactics we use today will remain. #SEOisAEO </div>
+<div class="b-blog-author-block__bottom">
+<div class="b-blog-author-block__soc-links">
+<a href="https://twitter.com/jasonmbarnard/" title="jasonmbarnard" target="_blank" class="b-blog-author-block__soc-link b-soc-link b-soc-link_type_twitter">
+<s-icon icon="twitter" size="xs" class="s-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="s-icon__inner
+      
+      
+      -xs
+      ">
+        <use xlink:href="#src/icons/xs/twitter__v2_11_2"></use>
+      </svg></s-icon>
+</a>
+<a href="https://www.linkedin.com/in/jasonbarnard/" title="LinkedIn profile" target="_blank" class="b-blog-author-block__soc-link b-soc-link b-soc-link_type_linkedin">
+<s-icon icon="linkedin" size="xs" class="s-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="s-icon__inner
+      
+      
+      -xs
+      ">
+        <use xlink:href="#src/icons/xs/linkedin__v2_11_2"></use>
+      </svg></s-icon>
+</a>
+<a href="https://jasonbarnard.com" target="_blank" class="b-blog-author-block__soc-link b-blog-author-block__soc-link_visibility_mobile b-soc-link b-soc-link_type_home">
+<s-icon icon="home" size="xs" class="s-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="s-icon__inner
+      
+      
+      -xs
+      ">
+        <use xlink:href="#src/icons/xs/home__v2_11_2"></use>
+      </svg></s-icon>
+</a>
+</div>
+<div class="b-blog-author-block__home">
+<a href="https://jasonbarnard.com" target="_blank" class="b-blog-author-block__soc-link b-soc-link b-soc-link_type_home">
+<s-icon icon="home" size="xs" class="s-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="s-icon__inner
+      
+      
+      -xs
+      ">
+        <use xlink:href="#src/icons/xs/home__v2_11_2"></use>
+      </svg></s-icon>
+</a>
+<div class="b-blog-author-block__sign">
+My website: <a href="https://jasonbarnard.com" target="_blank" class="b-blog-author-block__link">jasonbarnard.com</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
